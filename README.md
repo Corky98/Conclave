@@ -1,8 +1,3 @@
-/*
-Title: Conclave
-Author: Corey Wood
-Date: 2014/06/15  
-*/
 ## What is Conclave?
 Conclave is an application written in Python that collects financial data from as many sources as I can think of and lets you choose which ones you want on your personal front page.
 It's written in Python and takes data from ALL the APIs and JSON feeds. You choose your sources and rearrange the interface with NON-WINDOWS-8 style tiles.
