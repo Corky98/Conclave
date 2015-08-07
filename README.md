@@ -1,8 +1,4 @@
 ## What is Conclave?
-Conclave is an application written in Python that collects financial data from as many sources as I can think of and lets you choose which ones you want on your personal front page.
-It's written in Python and takes data from ALL the APIs and JSON feeds. You choose your sources and rearrange the interface with NON-WINDOWS-8 style tiles.
-Currently I am not able to integrate private data via online account sign in but that may be a project of the future.
+Conclave is a collection of notes I have made in full markdown format available for public reading. In the case of quoting from copyright sources such as textbooks I will attempt to remain under a fair use limitation. Those self limits will not exist on Creative Commons or Public Domain content. For quotation of biblical sources I will solely use the **KJV** as it is in the Public Domain, unlike the NIV which is largely limited on public use.
 
-## What I need help with
-I need more sources! Please submit source suggestions with instructions on where a JSON feed is or the specific API commands (I don't have time to read the whole API myself).
-This is a big project for me. Please contribute your code as I can't do it all on my own. Any bug reports are appreciated and if you're good at coding but don't have time to do it for me, you could direct me to the tools I need to implement or fix something.
+These are my notes on any subject. If you have corrections please contribute them as taking notes is always complex.
