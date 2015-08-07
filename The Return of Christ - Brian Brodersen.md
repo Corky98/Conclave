@@ -62,7 +62,7 @@ Brian Brodersen - 7th August 2015
     > **20** And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire
 
 * Men want Peace, but they don't want a peace with a righteous standard dependant on God
-* Tirbulation 6-19
+* Tribulation 6-19
 * Establishment of Kingdom of God chapter 20
 * Revelation 20:1-3
 
